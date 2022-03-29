@@ -1,0 +1,22 @@
+{
+    "name": "elbrus",
+    "version": "1.0.0",
+    "description": "Jest intro",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest -i"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/milanalakatosh/elbrus.git"
+    },
+    "author": "Milana Lakatosh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/milanalakatosh/elbrus/issues"
+    },
+    "homepage": "https://github.com/milanalakatosh/elbrus#readme",
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
+}
